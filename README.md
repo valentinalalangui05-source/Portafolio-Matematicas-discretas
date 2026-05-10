@@ -21,18 +21,27 @@
 ***
 # **📚INDICE**
 ### **1. CONTENIDOS**
-- [Lógica proposicional](#Lógica-proposicional)
-- [Conectores Lógicos](#Conectores-Logicos)
-- [Tablas de verdad](#Tablas-de-verdad)
-- [Leyes proposicionales](#Leyes-proposicionales)
-- [Leyes de inferencia](#Leyes-de-inferencia)
+  - [Lógica proposicional](Lógica-proposicional)
+  - [Conectores Lógicos](Conectores-Logicos)
+  - [Tablas de verdad](Tablas-de-verdad)
+  - [Leyes proposicionales](Leyes-proposicionales)
+  - [Leyes de inferencia](Leyes-de-inferencia)
 ### **2. EJEJERCICOS RESUELTOS**
-1. [Traducción de lenguaje natural a simbólico](Traducción-de-lenguaje-natural-a-simbólico)
-2. [Construcción de tablas de verdad](ConstruccióN-de-tablas-de-verdad)
-3. [Identificación de tautologías, contradicciones y contingencias](Identificación-de-tautologías,-contradicciones-y-contingencias)
-4. [Aplicación de leyes proposicionales](Aplicación-de-leyes-proposicionales)
-5. [Validación de argumentos](Validación-de-argumentos)
-### **3. EJERCICO APLICADO
+  - [Traducción de lenguaje natural a simbólico](Traducción-de-lenguaje-natural-a-simbólico)
+  - [Construcción de tablas de verdad](ConstruccióN-de-tablas-de-verdad)
+  - [Identificación de tautologías, contradicciones y contingencias](Identificación-de-tautologías,-contradicciones-y-contingencias)
+  - [Aplicación de leyes proposicionales](Aplicación-de-leyes-proposicionales)
+  - [Validación de argumentos](Validación-de-argumentos)
+### **3. EJERCICIO APLICADO**
+  - [Planteamiernto del problema](Planteamiento-del-problema)
+  - [Definir y expresar simbólicamente las proposiciones](Definir-y-expresar-simbolicamente-las-proposiciones)
+  - [Analizar con lógica proposicional](_Analizar-con-lógica-proposicional)
+  - [Conclusiones](Conclusiones)
+### **4. REFLEXION PERSONAL**
+1. ¿Qué fue lo más difícil de entender?
+2. ¿Qué tema comprendí mejor? 
+3. ¿Cómo puedo aplicar la lógica en mi carrera? 
+
 
 
 
