@@ -20,18 +20,21 @@
 # **UNIDAD 1**
 ***
 # **📚INDICE**
-## **1. CONTENIDOS**
+### **1. CONTENIDOS**
 - [Lógica proposicional](#Lógica-proposicional)
 - [Conectores Lógicos](#Conectores-Logicos)
 - [Tablas de verdad](#Tablas-de-verdad)
 - [Leyes proposicionales](#Leyes-proposicionales)
 - [Leyes de inferencia](#Leyes-de-inferencia)
-## **EJEJERCICOS RESUELTOS**
-1. Traducción de lenguaje natural a simbólico
-2. Construcción de tablas de verdad
-3. Identificación de tautologías, contradicciones y contingencias
-4. Aplicación de leyes proposicionales
-5. Validación de argumentos 
+### **2. EJEJERCICOS RESUELTOS**
+1. [Traducción de lenguaje natural a simbólico](Traducción-de-lenguaje-natural-a-simbólico)
+2. [Construcción de tablas de verdad](ConstruccióN-de-tablas-de-verdad)
+3. [Identificación de tautologías, contradicciones y contingencias](Identificación-de-tautologías,-contradicciones-y-contingencias)
+4. [Aplicación de leyes proposicionales](Aplicación-de-leyes-proposicionales)
+5. [Validación de argumentos](Validación-de-argumentos)
+### **3. EJERCICO APLICADO
+
+
 
 
 
