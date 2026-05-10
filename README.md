@@ -17,12 +17,16 @@
 **Periódo Académico:** Marzo 2026 - Agosto 2026
 
 ***
-# **CONTENIDOS**
-1. [Lógica proposicional](#Lógica proposicional)
-2. [Pseudocódigo](#pseudocódigo)
-3. [Diagramas de Flujo](#diagramas-de-flujo)
-4. [Prueba de Escritorio](#prueba-de-escritorio)
-5. [Lenguajes de Programación](#lenguajes-de-programación)
-6. [Programación por Bloques](#programación-por-bloques)
+## **UNIDAD 1**
+***
+
+## **CONTENIDOS**
+1. [Lógica proposicional](#Lógica-proposicional)
+2. [Conectores Lógicos](#Conectores-Logicos)
+3. [Tablas de verdad](#Tablas-de-verdad)
+4. [Leyes proposicionales](#Leyes-proposicionales)
+5. [Leyes de inferencia](#Leyes-de-inferencia)
+
+
 
 
