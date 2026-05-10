@@ -42,6 +42,10 @@
 2. ¿Qué tema comprendí mejor? 
 3. ¿Cómo puedo aplicar la lógica en mi carrera? 
 
+***
+
+## LOGICA PROPOSICIONAL
+
 
 
 
