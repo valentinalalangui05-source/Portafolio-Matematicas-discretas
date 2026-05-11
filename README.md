@@ -59,16 +59,38 @@
 |    bicondicional    |          ↔         |    si y solo si   |
 | Disyuncion exclusiva|           _v       | o bien p, o bien q|
 
-**3. Tabalas de verdad**
+**3. TabLas de verdad**
  Sirve para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles de valores de sus componentes. Permite clasificar los resultados en Tautología (todo verdadero), Contradicción (todo falso) o Contingencia (mezcla de ambos).
 ![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/TABLAS%20DE%20VERDAD.png?raw=true)
  
 **4. Leyes proposicionales**
 - Son reglas de equivalencia que permiten simplificar expresiones complejas sin alterar su significado. Se aplican unicamnete con AND y OR.
 ![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+
 **5. Leyes de inferencia**
   Son esquemas válidos que permiten extraer una conclusión lógica a partir de premisas dadas.
-![Imagen]()
+![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LEYES%20DE%20INFERENCIAS.png?raw=true)
+  ***
+
+## **2. EJERCICIOS RESUELTOS**
+**1. Traducción de lenguaje natural a simbólico**
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+
+**2. Construcción de tablas de verdad**
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+
+**3. Identificación de tautologías, contradicciones y contingencias**
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+
+**4. Aplicación de leyes proposicionales**
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+
+**5. Validación de argumentos**
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+
+***
+## **3. EJERCICIO APLICADO**
+
   
  
  
