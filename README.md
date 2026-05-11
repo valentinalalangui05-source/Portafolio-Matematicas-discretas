@@ -83,7 +83,7 @@
 [PDF]()
 
 **4. Aplicación de leyes proposicionales**
-[PDF]()
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Ejercicios%20resueltos%20aplicando%20leyes%20proposicionales.pdf)
 
 **5. Validación de argumentos**
 [PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
