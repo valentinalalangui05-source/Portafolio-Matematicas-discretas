@@ -20,32 +20,31 @@
 # **UNIDAD 1**
 ***
 # **📚INDICE**
-### **1. CONTENIDOS**
-  - [Lógica proposicional](Lógica-proposicional)
-  - [Conectores Lógicos](Conectores-Logicos)
-  - [Tablas de verdad](Tablas-de-verdad)
-  - [Leyes proposicionales](Leyes-proposicionales)
-  - [Leyes de inferencia](Leyes-de-inferencia)
-### **2. EJEJERCICOS RESUELTOS**
-  - [Traducción de lenguaje natural a simbólico](Traducción-de-lenguaje-natural-a-simbólico)
-  - [Construcción de tablas de verdad](ConstruccióN-de-tablas-de-verdad)
-  - [Identificación de tautologías, contradicciones y contingencias](Identificación-de-tautologías,-contradicciones-y-contingencias)
-  - [Aplicación de leyes proposicionales](Aplicación-de-leyes-proposicionales)
-  - [Validación de argumentos](Validación-de-argumentos)
-### **3. EJERCICIO APLICADO**
-  - [Planteamiernto del problema](Planteamiento-del-problema)
-  - [Definir y expresar simbólicamente las proposiciones](Definir-y-expresar-simbolicamente-las-proposiciones)
-  - [Analizar con lógica proposicional](_Analizar-con-lógica-proposicional)
-  - [Conclusiones](Conclusiones)
-### **4. REFLEXION PERSONAL**
-1. ¿Qué fue lo más difícil de entender?
-2. ¿Qué tema comprendí mejor? 
-3. ¿Cómo puedo aplicar la lógica en mi carrera? 
+### **1. [CONTENIDOS](#CONTENIDOS)**
+  - [Lógica proposicional](#Lógica-proposicional)
+  - [Conectores Lógicos](#Conectores-Logicos)
+  - [Tablas de verdad](#Tablas-de-verdad)
+  - [Leyes proposicionales](#Leyes-proposicionales)
+  - [Leyes de inferencia](#Leyes-de-inferencia)
+### **2. [EJERCICIOS RESUELTOS](#EJERCICIOS-RESUELTOS)**
+  - [Traducción de lenguaje natural a simbólico](#Traducción-de-lenguaje-natural-a-simbólico)
+  - [Construcción de tablas de verdad](#ConstruccióN-de-tablas-de-verdad)
+  - [Identificación de tautologías, contradicciones y contingencias](#Identificación-de-tautologías,-contradicciones-y-contingencias)
+  - [Aplicación de leyes proposicionales](#Aplicación-de-leyes-proposicionales)
+  - [Validación de argumentos](#Validación-de-argumentos)
+### **3. [EJERCICIO APLICADO](#EJERCICIO-APLICADO)**
+  - [Planteamiernto del problema](#Planteamiento-del-problema)
+  - [Definir y expresar simbólicamente las proposiciones](#Definir-y-expresar-simbolicamente-las-proposiciones)
+  - [Analizar con lógica proposicional](#Analizar-con-lógica-proposicional)
+  - [Conclusiones](#Conclusiones)
+### **4. [REFLEXION PERSONAL](#REFLEXION-PERSONAL)**
+  - [¿Qué fue lo más difícil de entender?](#¿Qué-fue-lo-más-difícil-de-entender?)
+  - [¿Qué tema comprendí mejor?](#¿Qué-tema-comprendí-mejor?)
+  - [¿Cómo puedo aplicar la lógica en mi carrera?](#¿Cómo-puedo-aplicar-la-lógica-en-mi-carrera?)
 
 ***
-
-## LÓGICA PROPOSICIONAl
-**1. ¿Que es la logica proposicional?**
+## **1. CONTENIDOS**
+**1. ¿Que es la logica proposiciona?**
 - La logica proposicional es un enunciado que puede ser verdadero o falso, pero no ambos a la vez.
 
 **2.  Conectores lógicos**
@@ -62,6 +61,7 @@
 
 **3. Tabalas de verdad**
  Sirve para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles de valores de sus componentes. Permite clasificar los resultados en Tautología (todo verdadero), Contradicción (todo falso) o Contingencia (mezcla de ambos).
+![Imagen]()
  
 **4. Leyes proposicionales**
 - Son reglas de equivalencia que permiten simplificar expresiones complejas sin alterar su significado. Se aplican unicamnete con AND y OR.
