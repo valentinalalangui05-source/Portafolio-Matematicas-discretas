@@ -77,7 +77,7 @@
 [PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Traduccion%20de%20Lenguaje%20natural%20a%20simbolico.pdf)
 
 **2. Construcción de tablas de verdad**
-[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Ejercicios%20resueltos%20aplicando%20leyes%20proposicionales.pdf)
+[PDF]()
 
 **3. Identificación de tautologías, contradicciones y contingencias**
 [PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
