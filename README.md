@@ -80,10 +80,10 @@
 [PDF]()
 
 **3. Identificación de tautologías, contradicciones y contingencias**
-[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+[PDF]()
 
 **4. Aplicación de leyes proposicionales**
-[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+[PDF]()
 
 **5. Validación de argumentos**
 [PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
