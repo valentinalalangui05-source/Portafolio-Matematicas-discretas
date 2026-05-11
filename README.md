@@ -65,7 +65,7 @@
  
 **4. Leyes proposicionales**
 - Son reglas de equivalencia que permiten simplificar expresiones complejas sin alterar su significado. Se aplican unicamnete con AND y OR.
-![Imagen]()
+![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
 **5. Leyes de inferencia**
   Son esquemas válidos que permiten extraer una conclusión lógica a partir de premisas dadas.
 ![Imagen]()
