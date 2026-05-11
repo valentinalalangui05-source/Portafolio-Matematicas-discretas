@@ -93,24 +93,29 @@
 
 **1. Planteamiento del problema**
 - Un servidor de base de datos solo permite el acceso si se cumplen ciertas condiciones de seguridad. Si el usuario tiene credenciales válidas y la IP es autorizada, entonces se permite el acceso siempre que el sistema no esté en mantenimiento.
-- 
+
 **2. Definir y expresar simbólicamente las proposiciones**
 - p: El usuario tiene credenciales válidas.
 - q: La solicitud proviene de una IP autorizada.
 - r: El sistema está fuera del horario de mantenimiento. 
-  - formalizacion: (p∧q)∧r → p
-  - 
+- formalizacion: (p∧q)∧r → p
+    
 **3. Analizar con lógica proposicional**
-![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LEYES%20DE%20INFERENCIAS.png?raw=true)
+![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/EJEMPLO%20PRACTICO.png?raw=true)
 
 **4. CONCLUSIONES**
-La proposicion es una argumento valido, es decir una tautologia. 
+- La proposicion es una argumento valido, es decir una tautologia. 
+***
 
 ## **4. REFLEXION CRITICA**
 **1. ¿Qué fue lo más difícil de entender?**
 - Los temas con un alto nivel de dificultad para mi comprension fue, compuertas logicas OR, AND, NAND, NOR.
+
+
 **2. ¿Qué tema comprendí mejor?**
-- El tema que se me facilito fue la construccion de tablas de verdad, y la identificacion de tautologias, contigencias y contradiccion 
+- El tema que se me facilito fue la construccion de tablas de verdad, y la identificacion de tautologias, contigencias y contradiccion
+
+
 **3. ¿Cómo puedo aplicar la lógica en mi carrera?**
 - La logica es un pilar fundamental dentro de area de la computacion, ya que nos permite desarrollar un pensamiento critico paara encontrar solucion en diferentes problemas complejos. Sus aplicacion principales son: analisis de un algoritmo secuencial, optimizacion y automatizacion de actividades. 
   
