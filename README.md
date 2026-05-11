@@ -74,7 +74,7 @@
 
 ## **2. EJERCICIOS RESUELTOS**
 **1. Traducción de lenguaje natural a simbólico**
-[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Traduccion%20de%20Lenguaje%20natural%20a%20simbolico.pdf)
 
 **2. Construcción de tablas de verdad**
 [PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/LOGICA%20PROPOSICIONAL.png?raw=true)
