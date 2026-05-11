@@ -80,7 +80,7 @@
 [PDF]()
 
 **3. Identificación de tautologías, contradicciones y contingencias**
-[PDF]()
+[PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/TAUTOLIGIAS%2C%20CONTRADICCION%2C%20CONTINGENCIAS%20-1-3.pdf)
 
 **4. Aplicación de leyes proposicionales**
 [PDF](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Ejercicios%20resueltos%20aplicando%20leyes%20proposicionales.pdf)
