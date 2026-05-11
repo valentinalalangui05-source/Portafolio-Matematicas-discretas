@@ -61,7 +61,7 @@
 
 **3. Tabalas de verdad**
  Sirve para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles de valores de sus componentes. Permite clasificar los resultados en Tautología (todo verdadero), Contradicción (todo falso) o Contingencia (mezcla de ambos).
-![Imagen]()
+![Imagen](https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/TABLAS%20DE%20VERDAD.png?raw=true)
  
 **4. Leyes proposicionales**
 - Son reglas de equivalencia que permiten simplificar expresiones complejas sin alterar su significado. Se aplican unicamnete con AND y OR.
