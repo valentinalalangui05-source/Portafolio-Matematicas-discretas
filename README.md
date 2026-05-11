@@ -44,9 +44,33 @@
 
 ***
 
-## LOGICA PROPOSICIONAL
+## LÓGICA PROPOSICIONAl
+**1. ¿Que es la logica proposicional?**
+- La logica proposicional es un enunciado que puede ser verdadero o falso, pero no ambos a la vez.
 
+**2.  Conectores lógicos**
+- Se utilizan para transformar proposiciones simples a compuestas. Una proposicion simple es aquella que esta compuesta por un solo enunciado. Mientras que las proposiciones compuestas son aquellas que esta compuestas por varias proposiciones simples mediante conectores lógicos.
 
+| Tipo de conector   |       símbolo      |  significativo   |      
+|--------------------|--------------------|------------------|
+|   Negacion         |        ~, /,¬      |        no        |
+|   conjuncion       |         ˄          |         y        ]
+|  Disyuncion        |         v          |         v        ]
+|  condicional       |       →            |    entonces      ]
+|    bicondicional   |          ↔         |    si y solo si  ]
+| Disyuncion exclusiva|           _v      | o bien p, o bien q]
+
+**3. Tabalas de verdad**
+ Sirve para determinar el valor de verdad de una proposición compuesta bajo todas las combinaciones posibles de valores de sus componentes. Permite clasificar los resultados en Tautología (todo verdadero), Contradicción (todo falso) o Contingencia (mezcla de ambos).
+**4. Leyes proposicionales**
+- Son reglas de equivalencia que permiten simplificar expresiones complejas sin alterar su significado. Se aplican unicamnete con AND y OR.
+![Imagen]()
+**5. Leyes de inferencia**
+  Son esquemas válidos que permiten extraer una conclusión lógica a partir de premisas dadas.
+![Imagen]()
+  
+ 
+ 
 
 
 
