@@ -17,13 +17,13 @@
 **Periódo Académico:** Marzo 2026 - Agosto 2026
 
 ***
- ## ⚙️ESTRUCTURA DE PORTAFOLIO
+ ## ⚙️ESTRUCTURA DEL PORTAFOLIO
 
 | **Nro. Unidad**             | Proceso       | **Temas de Unidad**                |
 |-------------------------------|--------------|-------------------------------------|
 | **[UNIDAD 1](UNIDAD%201.md)** | ✅Completado | **📌Logica proposicional y leyes de inferencia** |
-| **[UNIDAD 2](UNIDAD%202.md)** | ✅Completado | **📌Algebra Booleana y mapas de Karnaugh** |
-| **[UNIDAD 3](UNIDAD%203.md)** | ❌Incompleto    |  **📌Teoria de Grafos y Teoria de Arboles** |
+| **[UNIDAD 2](UNIDAD%202.md)** | ✅Completado | **📌Algebra Booleana y mapas de Karnaugh**       |
+| **[UNIDAD 3](UNIDAD%203.md)** | ✅Completado |  **📌Teoria de Grafos y Teoria de Arboles**      |
 
  
 
