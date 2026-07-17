@@ -152,11 +152,11 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ### Actividades practico-experimentales (APES)
 
-| 📂 Actividad | 📌 Fases   | 🔗 Acceso                                                                                                      |
-| ------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
-| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/APE1.pdf) |
-| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento](APE2..pdf)                                                                               |
-| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento](APE3.U2.pdf)                                                                               |
+| 📂 Actividad | 📌 Fases   | 🔗 Acceso            |
+| ------------ | ---------- | -----------------------|
+| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento]() |
+| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento]() |
+| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento]() |
 
 ---
 
@@ -164,9 +164,9 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
 | ------------ | ---------- | --------------------------- |
-| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad](APE1.md) |
-| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad](APE2.md) |
-| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad](APE3.I1.pdf) |
+| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad]() |
+| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad]() |
+| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad) |
 
 ---
 
@@ -174,7 +174,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
-| **AA**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+| **AA**       | Grupal          | [📄 Abrir documento]() |
 
 ---
 
@@ -182,8 +182,8 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento](ACD..pdf) |
-| **ACD**      | Individual      | [📝 Ver actividad](ACD.md)      |
+| **ACD**      | Grupal          | [📄 Abrir documento]() |
+| **ACD**      | Individual      | [📝 Ver actividad]()      |
 
 ---
 <div align="center">
