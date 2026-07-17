@@ -170,5 +170,5 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 <div align="center">
 
 ⬅️[Volver a inicio](README.md) 
-⬅️[Ir a UNIDAD 2](README.md) 
+➡️[Ir a UNIDAD 2](UNIDAD%202.md) 
 
