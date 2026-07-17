@@ -2,14 +2,14 @@
 ***
 
 ## 🎯INDICE
-1. [Actividades practicas APES](#actividades-practicas-apes)
-
-
+1. [Actividades practicas (APES)](#actividades-practicas-apes)
+2. [Actividades autonomas (AA)](#actividades-autonomas-aa)
+3. [Actividades contacto docente (ACD)](#actividades-contacto-docente-acd)
 ---
 
 </div>
 
-### Actividades practicas APES
+### Actividades practicas (APES)
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso            |
 | ------------ | ---------- | -----------------------|
@@ -23,16 +23,16 @@
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
-| **AA**       | Grupal          | [📄 Abrir documento](Documentos/AA1U2_OptimizacionHardware.pdf) |
+| **AA 1**       | Grupal          | [📄 Abrir documento](Documentos/AA1U2_OptimizacionHardware.pdf) |
 
 ---
 
-### Actividades de contacto docente (ACD)
+### Actividades contacto docente (ACD)
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento](Documentos/ACD1U2_MapasKarnaugh.pdf) |
-| **ACD**      | Individual      | [📝 Abrir documento](Documentos/EXAMEN_U2.pdf)      |
+| **ACD 1**      | Grupal          | [📄 Abrir documento](Documentos/ACD1U2_MapasKarnaugh.pdf) |
+| **ACD 2**      | Individual      | [📝 Abrir documento](Documentos/EXAMEN_U2.pdf)      |
 
 ---
 <div align="center">
