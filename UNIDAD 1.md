@@ -156,7 +156,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 | ------------ | ---------- | -----------------------|
 | **APE 1**    | Fase 1 | [📄 Abrir documento](Documentos/APE1_FASE1_PROPOSICIONES.pdf) |
 | **APE 1**    | Fase 2 | [📄 Abrir documento](Documentos/APE1_FASE2_EJERCICIOS%20RESUELTOS.pdf) |
-| **APE 1**    | Fase 3 | [📄 Abrir documento]() |
+| **APE 1**    | Fase 3 | [📄 Abrir documento](Documentos/APE1_FASE3_%20CONVERSION%20DE%20EXPRESIONES%20LOGICAS.pdf) |
 
 ---
 
