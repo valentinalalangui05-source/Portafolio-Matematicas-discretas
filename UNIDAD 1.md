@@ -160,27 +160,9 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ---
 
-### ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
-
-| 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
-| ------------ | ---------- | --------------------------- |
-| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad]() |
-| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad]() |
-| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad) |
-
----
-
-### Actividades autonomas (AA)
-
-| 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
-| ------------ | --------------- | ---------------------------- |
-| **AA**       | Grupal          | [📄 Abrir documento]() |
-
----
-
 ### Actividades de contacto docente (ACD)
 
-| 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
+| 📂 Actividad | 👨‍🏫 Tipo  | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
 | **ACD**      | Grupal          | [📄 Abrir documento](Documentos/ACD1_PROPOSICIONES.pdf) |
 
