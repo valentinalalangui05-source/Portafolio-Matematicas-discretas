@@ -150,7 +150,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 </div>
 
-### ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
+### Actividades practico-experimentales (APES)
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso                                                                                                      |
 | ------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
@@ -170,7 +170,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ---
 
-### ACTIVIDADES AUTÓNOMAS (AA)
+### Actividades autonomas (AA)
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
@@ -178,7 +178,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ---
 
-### ACTIVIDADES DE CONTACTO DOCENTE (ACD)
+### Actividades de contacto docente (ACD)
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
