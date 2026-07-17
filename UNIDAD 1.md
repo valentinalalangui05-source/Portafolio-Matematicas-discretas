@@ -150,7 +150,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ### 5. Principales leyes lógicas
 
-<img src="" width="900">
+<img src="https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Imagenes/LOGICA%20PROPOSICIONAL.png?raw=true" width="900">
 
 
 
