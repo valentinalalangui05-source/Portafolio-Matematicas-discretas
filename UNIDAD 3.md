@@ -9,7 +9,6 @@
 | ------------ | ---------- | -----------------------|
 | **APE 1**    | Fase 1 y 2 | [📄 Abrir documento]() |
 | **APE 2**    | Fase 3 y 4 | [📄 Abrir documento]() |
-| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento]() |
 
 ---
 
