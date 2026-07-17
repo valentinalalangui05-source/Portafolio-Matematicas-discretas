@@ -9,19 +9,9 @@
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso            |
 | ------------ | ---------- | -----------------------|
-| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento]() |
-| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento]() |
-| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento]() |
-
----
-
-### ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
-
-| 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
-| ------------ | ---------- | --------------------------- |
-| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad]() |
-| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad]() |
-| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad) |
+| **APE 2**    | Fase 1 y 2 | [📄 Abrir documento](Documentos/APE2_FASE1-2_SimplificacionOperacionesBooleanas.pdf) |
+| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento](Documentos/APE2_FASE3-4_MapasKarnaugh.pdf) |
+| **APE 2**    | Fase 5 y 6 | [📄 Abrir documento](Documentos/APE2_FASE5-6_SimplificacionExpresiones.pdf)
 
 ---
 
@@ -29,7 +19,7 @@
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
-| **AA**       | Grupal          | [📄 Abrir documento]() |
+| **AA**       | Grupal          | [📄 Abrir documento](Documentos/AA1U2_OptimizacionHardware.pdf) |
 
 ---
 
@@ -37,8 +27,8 @@
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento]() |
-| **ACD**      | Individual      | [📝 Ver actividad]()      |
+| **ACD**      | Grupal          | [📄 Abrir documento](Documentos/ACD1U2_MapasKarnaugh.pdf) |
+| **ACD**      | Individual      | [📝 Abrir documento](Documentos/EXAMEN_U2.pdf)      |
 
 ---
 <div align="center">
