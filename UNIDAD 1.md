@@ -182,7 +182,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento]() |
+| **ACD**      | Grupal          | [📄 Abrir documento](Documentos/ACD1_PROPOSICIONES.pdf) |
 | **ACD**      | Individual      | [📝 Ver actividad]()      |
 
 ---
