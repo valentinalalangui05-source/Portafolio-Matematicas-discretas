@@ -2,16 +2,16 @@
 ***
 
 ## 🎯INDICE
-## 📚 Proposiciones y leyes de Inferencia
+### 📚 Proposiciones y leyes de Inferencia
 
-1. [Definición de proposición](#1-Definición-de-proposición)
+1. [Definicion de proposiciones](#1-definicion-de-proposiciones)
 2. [Tipos de proposiciones](#2-tipos-de-proposiciones)
-3. [Conectores lógicos](#3-conectores-lógicos)
-4. [Explicación de tablas de verdad](#4-explicación-de-tablas-de-verdad)
+3. [Conectores lógicos](#3-conectores-logicos)
+4. [Tablas de verdad](#4-tablas-de-verdad)
 5. [Principales leyes lógicas](#5-principales-leyes-lógicas)
 6. [Reglas de inferencia](#6-reglas-de-inferencia)
 
-## 📝 Ejercicios Resueltos
+### 📝 Ejercicios Resueltos
 
 1. [Traducción de lenguaje natural a simbólico](#1-traducción-de-lenguaje-natural-a-simbólico)
 2. [Construcción de tablas de verdad](#2-construcción-de-tablas-de-verdad)
@@ -19,7 +19,7 @@
 4. [Aplicación de leyes proposicionales](#4-aplicación-de-leyes-proposicionales)
 5. [Validación de argumentos](#5-validación-de-argumentos)
 
-## 🌍 Ejercicio Aplicado (caso real o cotidiano)
+### 🌍 Ejercicio Aplicado (caso real o cotidiano)
 
 1. [Plantear un problema de la vida real](#1-plantear-un-problema-de-la-vida-real)
 2. [Definir proposiciones](#2-definir-proposiciones)
@@ -27,7 +27,7 @@
 4. [Analizar con lógica proposicional](#4-analizar-con-lógica-proposicional)
 5. [Concluir resultados](#5-concluir-resultados)
 
-## 💭 Reflexión personal
+### 💭 Reflexión personal
 
 1. [¿Qué fue lo más difícil de entender?](#1-qué-fue-lo-más-difícil-de-entender)
 2. [¿Qué tema comprendí mejor?](#2-qué-tema-comprendí-mejor)
@@ -40,7 +40,7 @@
 
 - Una proposición es un enunciado declarativo que puede determinarse como verdadero (V) o falso (F), pero nunca ambas cosas al mismo tiempo. Constituye la base de la lógica proposicional y permite construir razonamientos lógicos mediante el uso de conectores.
 
-## 2. Tipos de proposiciones
+### 2. Tipos de proposiciones
 
 ```mermaid
 graph TD
@@ -61,11 +61,11 @@ G --> I["OR (∨)"]
 G --> J["NOR (↓)"]
 ```
 
-## 3. Conectores logicos
+### 3. Conectores logicos
 
 - Los conectores lógicos son operadores que permiten relacionar proposiciones para formar expresiones más complejas. Los principales son la negación (¬), conjunción (∧), disyunción (∨), implicación (→) y bicondicional (↔). Cada uno posee reglas específicas que determinan el valor de verdad de la proposición resultante.
 
-## 4. Tablas de verdad
+### 4. Tablas de verdad
 <details>
 <summary>CONJUNCIÓN (∧)</summary>
 
@@ -147,3 +147,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 | F | F | V |
 
 </details>
+
+### 5. Principales leyes lógicas
+
+
