@@ -14,8 +14,8 @@
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso            |
 | ------------ | ---------- | -----------------------|
-| **APE 3**    | Fase 1 y 2 | [📄 Abrir documento]() |
-| **APE 3**    | Fase 1 y 5 | [📄 Abrir documento]() |
+| **APE 3**    | Fase 1 y 2 | [📄 Abrir documento](Documentos/APE3_1-2_Grafos.pdf) |
+| **APE 3**    | Fase 1 y 5 | [📄 Abrir documento](Documentos/APE3_1-5_Grafos_Arboles.pdf) |
 
 ---
 
