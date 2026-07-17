@@ -7,18 +7,8 @@
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso            |
 | ------------ | ---------- | -----------------------|
-| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento]() |
-| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento]() |
-
----
-
-### ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
-
-| 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
-| ------------ | ---------- | --------------------------- |
-| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad]() |
-| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad]() |
-| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad) |
+| **APE 3**    | Fase 1 y 2 | [📄 Abrir documento]() |
+| **APE 3**    | Fase 1 y 5 | [📄 Abrir documento]() |
 
 ---
 
@@ -26,16 +16,18 @@
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
-| **AA**       | Grupal          | [📄 Abrir documento]() |
+| **AA 1**       | Grupal          | [📄 Abrir documento]() |
+| **AA 2**       | Grupal          | [📄 Abrir documento]() |
+
 
 ---
 
 ### Actividades de contacto docente (ACD)
 
-| 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
-| ------------ | --------------- | ------------------------------- |
-| **ACD**      | Grupal          | [📄 Abrir documento]() |
-| **ACD**      | Individual      | [📝 Ver actividad]()      |
+| 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                 |
+| ------------ | --------------- | ------------------------ |
+| **ACD 1**    | Grupal          | [📄 Abrir documento]()  |
+| **ACD 2**    | Grupal           | [📝 Ver actividad]()      |
 
 ---
 <div align="center">
