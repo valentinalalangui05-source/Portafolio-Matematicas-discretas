@@ -34,7 +34,7 @@
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                 |
 | ------------ | --------------- | ------------------------ |
 | **ACD 1**    | Grupal          | [📄 Abrir documento](Documentos/ACD1_TeoriadeGrafos.pdf)  |
-| **ACD 2**    | Grupal           | [📝 Ver actividad](Documentos/ACD2_U3_ARBOLES.pdf)      |
+| **ACD 2**    | Grupal           | [📝 Abrir documento](Documentos/ACD2_U3_ARBOLES.pdf)      |
 
 ---
 <div align="center">
