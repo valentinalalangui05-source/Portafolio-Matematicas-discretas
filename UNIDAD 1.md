@@ -154,9 +154,9 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso            |
 | ------------ | ---------- | -----------------------|
-| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento]() |
-| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento]() |
-| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento]() |
+| **APE 1**    | Fase 1 | [📄 Abrir documento]() |
+| **APE 1**    | Fase 2 | [📄 Abrir documento](Documentos/APE1_FASE%202_EJERCICIOS%20RESUELTOS.pdf) |
+| **APE 1**    | Fase 3 | [📄 Abrir documento]() |
 
 ---
 
@@ -183,7 +183,6 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
 | **ACD**      | Grupal          | [📄 Abrir documento](Documentos/ACD1_PROPOSICIONES.pdf) |
-| **ACD**      | Individual      | [📝 Ver actividad]()      |
 
 ---
 <div align="center">
