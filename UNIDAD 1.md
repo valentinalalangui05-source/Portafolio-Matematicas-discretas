@@ -10,23 +10,13 @@
 4. [Tablas de verdad](#4-tablas-de-verdad)
 5. [Principales leyes lógicas](#5-principales-leyes-lógicas)
 6. [Reglas de inferencia](#6-reglas-de-inferencia)
+   
+### 🔍 Actividades, prácticas y recursos desarrollados durante la unidad
 
-### 📝 Ejercicios Resueltos
-
-1. [Traducción de lenguaje natural a simbólico](#1-traducción-de-lenguaje-natural-a-simbólico)
-2. [Construcción de tablas de verdad](#2-construcción-de-tablas-de-verdad)
-3. [Identificación de tautologías, contradicciones y contingencias](#3-identificación-de-tautologías-contradicciones-y-contingencias)
-4. [Aplicación de leyes proposicionales](#4-aplicación-de-leyes-proposicionales)
-5. [Validación de argumentos](#5-validación-de-argumentos)
-
-### 🌍 Ejercicio Aplicado (caso real o cotidiano)
-
-1. [Plantear un problema de la vida real](#1-plantear-un-problema-de-la-vida-real)
-2. [Definir proposiciones](#2-definir-proposiciones)
-3. [Expresar simbólicamente](#3-expresar-simbólicamente)
-4. [Analizar con lógica proposicional](#4-analizar-con-lógica-proposicional)
-5. [Concluir resultados](#5-concluir-resultados)
-
+1. [Actividades practico-experimentales(APES)](#actividades-practico-experimentales-(APES))
+2. [Actividades Autonomas (AA)](#actividades-autonomas-(aa))
+3. [Actividades de Contacto Docente (ACD)](#actividades-de-docente-(acd))
+4. [A](#APE)
 ### 💭 Reflexión personal
 
 1. [¿Qué fue lo más difícil de entender?](#1-qué-fue-lo-más-difícil-de-entender)
@@ -155,4 +145,47 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 ### 6. Reglas de inferencia
 <img src="https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Imagenes/LEYES%20DE%20INFERENCIAS.png?raw=true" width="900">
 
+# 🔍 Actividades, prácticas y recursos desarrollados durante la unidad.
+---
+
+</div>
+
+### 👥 ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
+
+| 📂 Actividad | 📌 Fases   | 🔗 Acceso                                                                                                      |
+| ------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
+| **APE 1**    | Fase 1 y 2 | [📄 Abrir documento](https://github.com/riosfabricio444-ai/Portaflio_Matematicas_Discretas/blob/main/APE1.pdf) |
+| **APE 2**    | Fase 3 y 4 | [📄 Abrir documento](APE2..pdf)                                                                               |
+| **APE 3**    | Fase 5 y 6 | [📄 Abrir documento](APE3.U2.pdf)                                                                               |
+
+---
+
+### 👤 ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
+
+| 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
+| ------------ | ---------- | --------------------------- |
+| **APE 1**    | Fase 1 y 2 | [📝 Ver actividad](APE1.md) |
+| **APE 2**    | Fase 3 y 4 | [📝 Ver actividad](APE2.md) |
+| **APE 3**    | Fase 5 y 6 |  [📝 Ver actividad](APE3.I1.pdf) |
+
+---
+
+### ✍️ ACTIVIDADES AUTÓNOMAS (AA)
+
+| 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
+| ------------ | --------------- | ---------------------------- |
+| **AA**       | Grupal          | [📄 Abrir documento](AA.pdf) |
+
+---
+
+### 📚 ACTIVIDADES DE CONTACTO DOCENTE (ACD)
+
+| 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
+| ------------ | --------------- | ------------------------------- |
+| **ACD**      | Grupal          | [📄 Abrir documento](ACD..pdf) |
+| **ACD**      | Individual      | [📝 Ver actividad](ACD.md)      |
+
+---
+
+<div align="center">
 
