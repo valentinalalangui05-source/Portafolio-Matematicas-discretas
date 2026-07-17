@@ -145,12 +145,12 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 ### 6. Reglas de inferencia
 <img src="https://github.com/valentinalalangui05-source/Portafolio-Matematicas-discretas/blob/main/Imagenes/LEYES%20DE%20INFERENCIAS.png?raw=true" width="900">
 
-# 🔍 Actividades, prácticas y recursos desarrollados durante la unidad.
+## 🔍 Actividades, prácticas y recursos desarrollados durante la unidad.
 ---
 
 </div>
 
-### 👥 ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
+### ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso                                                                                                      |
 | ------------ | ---------- | -------------------------------------------------------------------------------------------------------------- |
@@ -160,7 +160,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ---
 
-### 👤 ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
+### ACTIVIDADES PRACTICO-EXPERIMENTALES (APES)
 
 | 📂 Actividad | 📌 Fases   | 🔗 Acceso                   |
 | ------------ | ---------- | --------------------------- |
@@ -170,7 +170,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ---
 
-### ✍️ ACTIVIDADES AUTÓNOMAS (AA)
+### ACTIVIDADES AUTÓNOMAS (AA)
 
 | 📂 Actividad | 👨‍🎓 Modalidad | 🔗 Acceso                    |
 | ------------ | --------------- | ---------------------------- |
@@ -178,7 +178,7 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 
 ---
 
-### 📚 ACTIVIDADES DE CONTACTO DOCENTE (ACD)
+### ACTIVIDADES DE CONTACTO DOCENTE (ACD)
 
 | 📂 Actividad | 👨‍🏫 Modalidad | 🔗 Acceso                       |
 | ------------ | --------------- | ------------------------------- |
@@ -186,6 +186,5 @@ La implicación o condicional es **falsa únicamente cuando el antecedente es ve
 | **ACD**      | Individual      | [📝 Ver actividad](ACD.md)      |
 
 ---
-
 <div align="center">
 
